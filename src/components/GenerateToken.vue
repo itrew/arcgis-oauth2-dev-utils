@@ -2,8 +2,7 @@
   <fieldset>
     <legend>GENERATE TOKEN</legend>
     <p class='desc'>
-      Tokens generated with this utility are not tied to the client id as they use the old /generateToken endpoint. These
-      tokens do not have access to the portal's premium content.
+      Tokens generated with this utility are not tied to the client id as they use the old /generateToken endpoint.
     </p>
     <div class='row'>
       <div class='col col-6 push-center'>
